@@ -118,7 +118,7 @@ div .socials {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 div .socials .box {
   width: 50px;
@@ -145,7 +145,7 @@ div #socials .box a img {
 div .footer {
   position: absolute;
   bottom: 0;
-  padding: 20px;
+  padding: 10px;
   font-family: 'Poppins', sans-serif;
   color: var(--text-color);
 }
