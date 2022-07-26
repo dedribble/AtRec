@@ -118,7 +118,7 @@ div .socials {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  margin-top: 88px;
+  margin-top: 50px;
 }
 div .socials .box {
   width: 50px;
